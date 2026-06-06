@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class square{
     public static void main(String[] args){
 
-        Locale.setDefault(Locale.US);
+        Locale.setDefault(Locale.US);// Aqui estou falando que vai deixar estilo estados unidos
         Scanner sc = new Scanner(System.in);
 
         double Prohibited;
