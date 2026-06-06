@@ -29,7 +29,7 @@ public class different
         sum = (A * B) - (C * D);
 
         System.out.printf("A diferença entre A, B, C e D é: %d\n", sum);
-
+sc.close();
     }
 
 }
