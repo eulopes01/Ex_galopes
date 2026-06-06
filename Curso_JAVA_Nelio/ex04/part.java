@@ -36,7 +36,7 @@ public class part
         itens_uni = sc.nextInt();
 
         System.out.printf("-------------------- TOTAL DA COMPRA ---------------------------");
-        System.out.printf("\n");
+        System.out.printf("\n");//
 
         buy = (item_prace * item_uni) + (itens_prace * itens_uni);
 
