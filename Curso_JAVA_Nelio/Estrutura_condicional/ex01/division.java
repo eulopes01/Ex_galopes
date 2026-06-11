@@ -6,15 +6,15 @@ public class division
     {
         int num;
 
-        num = 4;
+        num = 12;
 
         if (num % 2 == 0)
         {
-            System.out.println("Numero é par");
+            System.out.println("PAR");
         }
         else
         {
-            System.out.println("O numero e impar");
+            System.out.println("IMPAR");
         }
     }
 }
