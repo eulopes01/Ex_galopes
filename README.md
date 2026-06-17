@@ -1,1 +1,1 @@
-☕ Bem-vindo! Este repositório reúne os exercícios que desenvolvo ao longo da minha carreira como programador. Entre um café e outro, sigo treinando minha lógica para que os bugs tenham cada vez menos chances de vencer.
+☕ Bem-vindo! Este repositório reúne os exercícios que eu treino para carreira como programador. Entre um café e outro, sigo treinando minha lógica para que os bugs tenham cada vez menos chances de vencer.
