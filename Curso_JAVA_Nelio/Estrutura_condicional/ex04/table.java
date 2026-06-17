@@ -14,15 +14,15 @@ public class table
         double total;
 
 
-        Scanner scc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.println("1. Cachorro Quente   R$ 4.00 \n2. X-Salada R$ 4.50 \n3. X-Bacon R$ 5.00 \n4. Torrada simples R$ 2.00 \n5. Refrigerente R$ 1.50 ");
 
         System.out.printf(" Por favor, escolhar uma coisa para ser compranda?");
-        item = scc.nextDouble();
+        item = sc.nextDouble();
 
         System.out.printf(" Me informe a quantida de itens que voce quer ");
-        unit = scc.nextDouble();
+        unit = sc.nextDouble();
 
         if (item == 1)
         {
@@ -48,5 +48,6 @@ public class table
 
 
         System.out.printf("TOTAl: R$%.2f", total);
+        sc.close();
     }
 }

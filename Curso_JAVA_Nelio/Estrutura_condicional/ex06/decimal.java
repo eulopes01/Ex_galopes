@@ -42,5 +42,6 @@ public class decimal {
         {
           System.out.printf("Origem\n");  
         }
+    sc.close();
     }
 }

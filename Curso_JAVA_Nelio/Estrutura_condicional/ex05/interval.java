@@ -36,5 +36,6 @@ public class interval {
         {
             System.out.printf("Fora de intervalo\n");
         }
+    sc.close();
     }
 }

@@ -43,5 +43,6 @@ public class lisarb {
         {
             System.out.printf("Isento\n");
         }
+        sc.close();
     }
 }
