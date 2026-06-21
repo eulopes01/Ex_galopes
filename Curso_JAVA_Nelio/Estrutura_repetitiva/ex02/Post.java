@@ -44,6 +44,7 @@ public class Post {
         System.out.printf("Alcool:%d\n", Alcool);
         System.out.printf("Gasolina:%d\n", Gasolina );
         System.out.printf("Diesel:%d\n", Diesel);
+        
 
      sc.close();
     }
