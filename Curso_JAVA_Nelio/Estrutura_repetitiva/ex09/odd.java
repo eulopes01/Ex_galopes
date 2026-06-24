@@ -11,10 +11,10 @@ public class odd
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Digite o numero");
+        System.out.printf("Digite o numero ");
         x = sc.nextInt();
 
-        for( int i = 1; i <= x; i++)
+        for( int i = 0; i <= x; i++)
         {
              if(i % 2 == 1)
                 System.out.println(i);
