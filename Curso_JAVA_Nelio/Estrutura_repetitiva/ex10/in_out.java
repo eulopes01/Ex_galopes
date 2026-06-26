@@ -29,5 +29,6 @@ public class in_out
 
        System.out.printf("%d in\n", in);
        System.out.printf("%d out\n", out);
+    sc.close();
     }
 }

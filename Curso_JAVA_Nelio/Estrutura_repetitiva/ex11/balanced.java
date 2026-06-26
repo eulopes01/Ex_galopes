@@ -17,7 +17,7 @@ public class balanced
         System.out.printf("Digite o numero de notas: ");
         int N = sc.nextInt();
 
-        for(int i = 0; i < N; i++)
+        for(int i = 0; i < N; i++)//
         {
             soma = 0;
             for( int x = 0; x < 3; x++)
