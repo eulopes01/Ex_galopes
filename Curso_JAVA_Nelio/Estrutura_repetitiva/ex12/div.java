@@ -27,8 +27,7 @@ public class div
             System.out.printf("Digite o segundo número: ");
             numb1 = sc.nextDouble();
 
-            if(!(numb1 == 0 ))//
-            {
+            if(!(numb1 == 0 ))//            {
                 result = numb / numb1;
                 System.out.printf("Resultado: %.2f%n ", result);
             }
