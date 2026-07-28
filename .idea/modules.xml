@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Curso_JAVA_Nelio/CPTSE/CPTSE.iml" filepath="$PROJECT_DIR$/Curso_JAVA_Nelio/CPTSE/CPTSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso_JAVA_Nelio/Curso_JAVA_Nelio.iml" filepath="$PROJECT_DIR$/Curso_JAVA_Nelio/Curso_JAVA_Nelio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EXgalopes.iml" filepath="$PROJECT_DIR$/.idea/EXgalopes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso_JAVA_Nelio/Estrutura_condicional/Estrutura_condicional.iml" filepath="$PROJECT_DIR$/Curso_JAVA_Nelio/Estrutura_condicional/Estrutura_condicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso_JAVA_Nelio/Estrutura_repetitiva/Estrutura_repetitiva.iml" filepath="$PROJECT_DIR$/Curso_JAVA_Nelio/Estrutura_repetitiva/Estrutura_repetitiva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso_JAVA_Nelio/Estrutura_sequencial/Estrutura_sequencial.iml" filepath="$PROJECT_DIR$/Curso_JAVA_Nelio/Estrutura_sequencial/Estrutura_sequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso_JAVA_Nelio/OOP/OOP.iml" filepath="$PROJECT_DIR$/Curso_JAVA_Nelio/OOP/OOP.iml" />
+    </modules>
+  </component>
+</project>
