@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CPTSE/CPTSE.iml" filepath="$PROJECT_DIR$/CPTSE/CPTSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso_JAVA_Nelio.iml" filepath="$PROJECT_DIR$/Curso_JAVA_Nelio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura_condicional/Estrutura_condicional.iml" filepath="$PROJECT_DIR$/Estrutura_condicional/Estrutura_condicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura_repetitiva/Estrutura_repetitiva.iml" filepath="$PROJECT_DIR$/Estrutura_repetitiva/Estrutura_repetitiva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura_sequencial/Estrutura_sequencial.iml" filepath="$PROJECT_DIR$/Estrutura_sequencial/Estrutura_sequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+    </modules>
+  </component>
+</project>
